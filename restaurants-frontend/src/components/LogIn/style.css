@@ -1,0 +1,9 @@
+.user-login-main {
+    display: flex;
+    flex-direction: column;
+    width: 15rem;
+}
+
+.user-login-main_create-button {
+    width: 5rem;
+}
