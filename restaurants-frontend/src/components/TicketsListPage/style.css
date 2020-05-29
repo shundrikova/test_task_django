@@ -1,0 +1,17 @@
+.ticket {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.ticketElement {
+    margin-right: auto;
+}
+
+hr {
+    width: 100%;
+    color: black;
+    background-color:black;
+    height: 2px;
+}

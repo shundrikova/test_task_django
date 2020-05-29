@@ -1,0 +1,9 @@
+.create-user-main {
+    display: flex;
+    flex-direction: column;
+    width: 15rem;
+}
+
+.create-user-main_create-button {
+    width: 5rem;
+}

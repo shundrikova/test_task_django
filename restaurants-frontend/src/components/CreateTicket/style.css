@@ -1,0 +1,9 @@
+.create-ticket-main {
+    display: flex;
+    flex-direction: column;
+    width: 15rem;
+}
+
+.create-ticket-main_create-button {
+    width: 5rem;
+}

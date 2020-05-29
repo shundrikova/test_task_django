@@ -1,0 +1,9 @@
+.create-restaurant-main {
+    display: flex;
+    flex-direction: column;
+    width: 10rem;
+}
+
+.create-restaurant-main_create-button {
+    width: 5rem;
+}
